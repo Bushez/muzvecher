@@ -76,7 +76,7 @@ window.DEMO_PERFORMANCES = [
   {
     "id": "80bb3a3b-2bbe-47ae-8b50-79758cfdce40",
     "songTitle": "Мэхэббэтем",
-    "groupName": "Тимур Сибгатуллин с песней Мэхэббэтем",
+    "groupName": "Тимур Сибгатуллин",
     "artist": "Ришат Тухватуллин",
     "order": 5
   },

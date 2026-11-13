@@ -80,10 +80,10 @@ window.DEMO_PERFORMANCES = [
     "order": 5
   },
   {
-    "id": "68d74216-1905-4ee3-abe4-2ebfc7d966be",
-    "songTitle": "Ева",
-    "groupName": "ёвик",
-    "artist": "Винтаж",
+    "id": "8781be60-5eec-49ae-9dda-fe6150902edc",
+    "songTitle": "Electioneering",
+    "groupName": "Rosans Curse",
+    "artist": "Radiohead",
     "order": 6
   },
   {
@@ -157,10 +157,10 @@ window.DEMO_PERFORMANCES = [
     "order": 16
   },
   {
-    "id": "8781be60-5eec-49ae-9dda-fe6150902edc",
-    "songTitle": "Electioneering",
-    "groupName": "Rosans Curse",
-    "artist": "Radiohead",
+    "id": "68d74216-1905-4ee3-abe4-2ebfc7d966be",
+    "songTitle": "Ева",
+    "groupName": "ёвик",
+    "artist": "Винтаж",
     "order": 17
   },
   {

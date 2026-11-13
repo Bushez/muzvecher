@@ -1,5 +1,4 @@
-// Shared configuration and local performances. Keep assignment values valid JSON.
-// source: local uses the fixed submitted programme. id is independent of row order.
+// Local performance programme. IDs stay with performances when reordered.
 window.MIXTAPE_CONFIG = {
   "source": "local",
   "csvUrl": "",
@@ -53,17 +52,17 @@ window.DEMO_PERFORMANCES = [
     "order": 1
   },
   {
-    "id": "8fd79265-934a-43cc-ba7a-8ed96522805f",
-    "songTitle": "Lost in Thoughts All Alone",
-    "groupName": "Елизавета",
-    "artist": "Rena Strober",
-    "order": 2
-  },
-  {
     "id": "430194ba-3aee-4060-88a2-4fcec9223b58",
     "songTitle": "Sure thing",
     "groupName": "Самарина",
     "artist": "Migueil",
+    "order": 2
+  },
+  {
+    "id": "a7b5bda2-6723-4a5b-a818-59233ece4109",
+    "songTitle": "nu-metalcore-2026",
+    "groupName": "Демковидение 2026",
+    "artist": "",
     "order": 3
   },
   {
@@ -180,7 +179,7 @@ window.DEMO_PERFORMANCES = [
   },
   {
     "id": "a4a6085e-a207-47e1-a8f3-60801c6a1bf8",
-    "songTitle": "сами придумали",
+    "songTitle": "Фанк по четвергам",
     "groupName": "Мурат, Данила и Амир",
     "artist": "",
     "order": 20
@@ -214,10 +213,10 @@ window.DEMO_PERFORMANCES = [
     "order": 24
   },
   {
-    "id": "a7b5bda2-6723-4a5b-a818-59233ece4109",
-    "songTitle": "nu-metalcore-2026",
-    "groupName": "Демковидение 2026",
-    "artist": "",
+    "id": "8fd79265-934a-43cc-ba7a-8ed96522805f",
+    "songTitle": "Lost in Thoughts All Alone",
+    "groupName": "Елизавета",
+    "artist": "Rena Strober",
     "order": 25
   },
   {

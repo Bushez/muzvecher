@@ -52,10 +52,10 @@ window.DEMO_PERFORMANCES = [
     "order": 1
   },
   {
-    "id": "430194ba-3aee-4060-88a2-4fcec9223b58",
-    "songTitle": "Sure thing",
-    "groupName": "Самарина",
-    "artist": "Migueil",
+    "id": "15e2e79e-bd04-4d74-b058-b56d3b8a3910",
+    "songTitle": "Ясный мой свет",
+    "groupName": "Двери",
+    "artist": "Пушной",
     "order": 2
   },
   {
@@ -101,10 +101,10 @@ window.DEMO_PERFORMANCES = [
     "order": 8
   },
   {
-    "id": "15e2e79e-bd04-4d74-b058-b56d3b8a3910",
-    "songTitle": "Ясный мой свет",
-    "groupName": "Двери",
-    "artist": "Пушной",
+    "id": "430194ba-3aee-4060-88a2-4fcec9223b58",
+    "songTitle": "Sure thing",
+    "groupName": "Самарина",
+    "artist": "Migueil",
     "order": 9
   },
   {

@@ -222,7 +222,7 @@ window.DEMO_PERFORMANCES = [
   {
     "id": "8aa84b10-490d-4dc3-b38d-8e409ab50590",
     "songTitle": "Светлая полоса",
-    "groupName": "Азат Хамзин",
+    "groupName": "Луп за лупом",
     "artist": "Noize MC",
     "order": 26
   },
